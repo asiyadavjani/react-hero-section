@@ -19,7 +19,7 @@ export default function CourseCards() {
   });
 
   return (
-    <section className="bg-white px-4 py-16 md:px-10">
+    <section id="courses" className="bg-white px-4 py-16 md:px-10">
       <div className="mx-auto max-w-7xl">
         {/* Heading */}
         <h2 className="mb-2 text-center text-3xl font-extrabold text-gray-900 sm:text-4xl">
